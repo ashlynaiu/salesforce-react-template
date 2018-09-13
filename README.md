@@ -1,7 +1,7 @@
 ## Salesforce React Template
 This is a lightweight template to build Salesforce demo orgs with React. 
-⋅⋅*Uses the [react-create-app](https://github.com/facebook/create-react-app) as the boilerplater template. 
-⋅⋅*Includes the npm package that extends the [SLDS Design System](https://www.lightningdesignsystem.com/)
+  * Uses the [react-create-app](https://github.com/facebook/create-react-app) as the boilerplater template. 
+  * Includes the npm package that extends the [SLDS Design System](https://www.lightningdesignsystem.com/)
 
 ## Run Locally
 ```
